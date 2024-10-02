@@ -57,22 +57,22 @@ the program instructions in order to discover what the program does.
 
 # Basic static techniques
 
--Antivirus scanning
+**-Antivirus scanning**
 
-  file signatures
+  **file signatures*
 
-  heuristics
+  **heuristics*
 
 
--Hashing
+**-Hashing**
 
-  MD5
+  **MD5*
 
-  SHA-1
+  **SHA-1*
 
--Finding Strings
+**-Finding Strings**
 
--Packed and Obfuscated Malware
+**-Packed and Obfuscated Malware**
 
 # Basic dynamic techniques
 j
