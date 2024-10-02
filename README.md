@@ -59,14 +59,16 @@ the program instructions in order to discover what the program does.
 
 -Antivirus scanning
 
-file signatures
-heuristics
+  file signatures
+
+  heuristics
 
 
 -Hashing
 
-MD5
-SHA-1
+  MD5
+
+  SHA-1
 
 -Finding Strings
 
