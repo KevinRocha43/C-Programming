@@ -1,7 +1,7 @@
 # Malware analysis 
 
 Only for  acadedemic reasons!
-I will use special virtual machines in order to analize malware in a secure enviroment, after the review of the theory i going  to document the steps an configuration of these
+I will use special virtual machines in order to analize malware in a secure enviroment, after the review of the theory i'm going to document the steps and configuration of these vm's
 ### Techniques:
 
 **1.Basic static analysis**
@@ -59,17 +59,18 @@ the program instructions in order to discover what the program does.
 
 -Antivirus scanning
 
-	-file signatures
-
-	-heuristics
+file signatures
+heuristics
 
 
 -Hashing
 
-	-MD5
-
-	-SHA-1
+MD5
+SHA-1
 
 -Finding Strings
 
 -Packed and Obfuscated Malware
+
+# Basic dynamic techniques
+j
