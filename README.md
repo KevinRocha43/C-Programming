@@ -1,7 +1,7 @@
 # Malware analysis 
 
 Only for  acadedemic reasons!
-
+I will use special virtual machines in order to analize malware in a secure enviroment, after the review of the theory i going  to document the steps an configuration of these
 ### Techniques:
 
 **1.Basic static analysis**
